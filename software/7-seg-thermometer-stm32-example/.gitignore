@@ -1,0 +1,10 @@
+build_windows_debug*/*
+build_windows_release*/*
+build_linux_debug*/*
+build_linux_release*/*
+.vscode/*
+nbproject/*
+fp-info-cache
+*.bak
+*-bak
+*-cache.lib
